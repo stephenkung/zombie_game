@@ -1,0 +1,5 @@
+百度经验链接：https://jingyan.baidu.com/article/60ccbceb59060564cab1970e.html
+
+注意SDL_ttf-2.0.11\lib\要拷贝x86文件夹下面的，不要拷贝x64目录下的。
+
+另外记得代码第一行注释改掉，添加你自己的学号信息。
