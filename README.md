@@ -1,6 +1,9 @@
 # zombie_game
 a zombie game, by C++ and SDL1.2
 
+## Game截图
+![](https://github.com/stephenkung/zombie_game/blob/master/Game.PNG)
+
 游戏的玩法是：你是Jone Snow，杀死僵尸，摧毁僵尸的Home，找到被僵尸绑架的丹妮尼斯，一起回到铁王座，并躲过随机的闪电则赢。     
 
 本着跟电视剧剧情基本融洽的原则，游戏有以下一些角色：     
