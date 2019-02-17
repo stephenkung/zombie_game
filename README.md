@@ -1,7 +1,7 @@
 # zombie_game
 a zombie game, by C++ and SDL1.2, Run in windows 7/10.
 
-## Game截图
+## Game screenshot
 ![](https://github.com/stephenkung/zombie_game/blob/master/Game.PNG)
 
 # How to Play
