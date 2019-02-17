@@ -1,21 +1,19 @@
 # zombie_game
-a zombie game, by C++ and SDL1.2
+a zombie game, by C++ and SDL1.2, Run in windows 7/10.
 
 ## Game截图
 ![](https://github.com/stephenkung/zombie_game/blob/master/Game.PNG)
 
-游戏的玩法是：你是Jone Snow，杀死僵尸，摧毁僵尸的Home，找到被僵尸绑架的丹妮尼斯，一起回到铁王座，并躲过随机的闪电则赢。     
+# How to Play
+You are Jone Snow. Your lover Daenerys Targaryen was taken hostage by zombies. You need to find zombies' home and kill all zombies, then find Daenerys and take her to the throne.    
 
-本着跟电视剧剧情基本融洽的原则，游戏有以下一些角色：     
-1）Jone Snow，游戏玩家，骑着一条龙，可以喷射红色火焰杀敌；    
-2）能投掷冰矛的僵尸，它可以连续抛掷冰矛，冰矛击中Jone Snow则游戏失败；    
-3）骑着龙的僵尸，它会一直飞到铁王座上空，然后发射冰球，击中铁王座则游戏结束；    
-4）僵尸熊，它可以一直追着Jone Snow跑，发生碰撞则游戏失败；    
-5）僵尸老巢，在地图左上角，Jone Snow需要杀死僵尸然后击毁老巢，才能见到被绑架的丹妮尼斯；    
-6）丹妮尼斯，前期被僵尸藏匿，僵尸老巢被毁才会出现，位置有一定随机性，Jone Snow必须接走丹妮尼斯才能获胜；    
-7）闪电，Jone救回丹妮尼斯登上铁王座的时候，有20%的概率被闪电击中身亡，游戏失败，该闪电不能躲避，只是为了显示命运的无常；    
+# Game Roles:     
+1）Jone Snow，dragon driver，destroy enemys by shotting fire balls.
+2）Spear zombie. It can cast ice spear to kill enemies.
+3）Dragon driver zombie. This zobie can fire ice ball to kill enemies.     
+4）Zombie bear. It can track enemy all the way, and it catches enemy, then enemy dies. 
+5）Daenerys Targaryen. Jone's lover, hostage of zombies. Need to be saved.      
+6）Random lighting, it happens when Jone and Daen are about to return to throne. 20% of probability of been killed by lighting with no way to avoid. Just to show no matter who you are, you still may not survive because this is the GoT!    
 
-获胜之后，会显示大团圆的图片，并在屏幕中央显示You Win的手写字；失败则显示Game Over；被闪电击中而失败铁王座处会显示闪电。    
-
-上下左右键移动；    
-wasd键发射火球。    
+use diraction buttons to move;    
+wasd to shot fire ball;    
