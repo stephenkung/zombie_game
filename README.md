@@ -1,5 +1,5 @@
 # zombie_game
-a zombie game, by C++ and SDL1.2, Run in windows 7/10.
+a zombie game of GoT background, by C++ and SDL1.2, Run in windows 7/10.
 
 ## Game screenshot
 ![](https://github.com/stephenkung/zombie_game/blob/master/Game.PNG)
