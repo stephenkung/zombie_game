@@ -15,5 +15,5 @@ You are Jone Snow. Your lover Daenerys Targaryen was taken hostage by zombies. Y
 5）Daenerys Targaryen. Jone's lover, hostage of zombies, waiting for Jone's saving.         
 6）Random lighting, it happens when Jone and Daen are about to return to throne. 20% of probability of been killed by lighting with no avoidance. Just to show no matter who you are, you still may not survive because this is the GoT!      
 
-use diraction buttons to move;     
+use direction buttons to move;     
 w/a/s/d to shoot fire ball;     
